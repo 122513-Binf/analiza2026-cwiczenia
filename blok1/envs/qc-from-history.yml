@@ -1,0 +1,9 @@
+name: qc
+channels:
+  - bioconda
+dependencies:
+  - fastp
+  - fastqc
+  - multiqc
+
+prefix: "/opt/miniforge/envs/qc"
