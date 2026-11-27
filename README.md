@@ -1,0 +1,1 @@
+# narzedzia-2026z-szablon
