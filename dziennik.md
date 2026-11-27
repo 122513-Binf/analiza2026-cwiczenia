@@ -16,4 +16,4 @@ Z gotowego pliku `qc-env.yml` utworzyłem za pomocą `mamba` izolowane środowis
 ### 4. Git, GitHub i konfiguracja dostępu do klastra BEM2 (ćwiczenia 1.4 i 1.5)
 Skonfigurowałem lokalnie Gita (`user.name`, `user.email`, domyślna gałąź `main`), wygenerowałem klucz SSH typu `ed25519` i dodałem klucz publiczny do swojego konta na GitHubie. Założyłem publiczne repozytorium `analiza2026-cwiczenia`, sklonowałem je do `~/analiza2026/`, uzupełniłem `README.md` oraz `.gitignore` (ignorujący duże pliki danych i logi) i uporządkowałem pliki z Bloku 1 w katalogu `blok1/`.
 
-* **Dostęp do BEM2:** Konfiguracja `Host bem2` z moim kluczem SSH została dopisana do pliku `~/.ssh/config` — czekam na aktywację konta WCSS, aby przetestować logowanie *(jeśli konto już działa, zamień tę część na: połączenie SSH z klastrem działa poprawnie i utworzyłem katalog `~/analiza2026`)*.
+* **Dostęp do BEM2:** Konfiguracja `Host bem2` z moim kluczem SSH została dopisana do pliku `~/.ssh/config` — połączenie SSH z klastrem działa poprawnie i utworzyłem katalog `~/analiza2026`.
